@@ -1,13 +1,13 @@
-<h1 align="center">mineflayer-plugin-template</h1>
-<p align="center"><i>A simple template repository for developing Mineflayer plugins through Typescript.</i></p>
+<h1 align="center">mineflayer-goals</h1>
+<p align="center"><i>A Mineflayer plugin for automated goal execution and heuristic-guided decision making.</i></p>
 
 <p align="center">
-  <img src="https://github.com/TheDudeFromCI/mineflayer-plugin-template/workflows/Build/badge.svg" />
-  <img src="https://img.shields.io/npm/v/mineflayer-plugin-template" />
-  <img src="https://img.shields.io/github/repo-size/TheDudeFromCI/mineflayer-plugin-template" />
-  <img src="https://img.shields.io/npm/dm/mineflayer-plugin-template" />
-  <img src="https://img.shields.io/github/contributors/TheDudeFromCI/mineflayer-plugin-template" />
-  <img src="https://img.shields.io/github/license/TheDudeFromCI/mineflayer-plugin-template" />
+  <img src="https://github.com/TheDudeFromCI/mineflayer-goals/workflows/Build/badge.svg" />
+  <img src="https://img.shields.io/npm/v/mineflayer-goals" />
+  <img src="https://img.shields.io/github/repo-size/TheDudeFromCI/mineflayer-goals" />
+  <img src="https://img.shields.io/npm/dm/mineflayer-goals" />
+  <img src="https://img.shields.io/github/contributors/TheDudeFromCI/mineflayer-goals" />
+  <img src="https://img.shields.io/github/license/TheDudeFromCI/mineflayer-goals" />
 </p>
 
 ---
@@ -16,10 +16,8 @@
 
 This plugin is built using Node and can be installed using:
 ```bash
-npm install --save mineflayer-plugin-template
+npm install --save mineflayer-goals
 ```
-
-This plugin has a relies on [random-plugin]() for a-b-c. That plugin should be loaded first.
 
 ### Simple Bot
 
@@ -36,13 +34,13 @@ bot.doStuff()
 
 ### Documentation
 
-[API](https://github.com/TheDudeFromCI/mineflayer-plugin-template/blob/master/docs/api.md)
+[API](https://github.com/TheDudeFromCI/mineflayer-goals/blob/master/docs/api.md)
 
-[Examples](https://github.com/TheDudeFromCI/mineflayer-plugin-template/tree/master/examples)
+[Examples](https://github.com/TheDudeFromCI/mineflayer-goals/tree/master/examples)
 
 ### License
 
-This project uses the [MIT](https://github.com/TheDudeFromCI/mineflayer-plugin-template/blob/master/LICENSE) license.
+This project uses the [MIT](https://github.com/TheDudeFromCI/mineflayer-goals/blob/master/LICENSE) license.
 
 ### Contributions
 
