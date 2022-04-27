@@ -30,7 +30,8 @@
   },
   "homepage": "https://github.com/TheDudeFromCI/mineflayer-goals#readme",
   "dependencies": {
-    "mineflayer": "^4.3.0"
+    "mineflayer": "^4.3.0",
+    "prismarine-item": "^1.11.5"
   },
   "devDependencies": {
     "@types/node": "14.14.5",
