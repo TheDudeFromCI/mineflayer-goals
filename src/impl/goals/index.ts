@@ -1,1 +1,1 @@
-export * from './ObtainItemGoal'
+export * from './BreakBlockGoal'

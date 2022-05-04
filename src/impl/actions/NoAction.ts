@@ -1,15 +1,12 @@
 import { IAction } from '../../api'
 
 export class NoAction implements IAction {
-  canPerform (): boolean {
-    return true
+  async run (): Promise<void> {
+    // Nothing to do
+
   }
 
   updateWorldState (): void {
     // Nothing to do
-  }
-
-  getCost (): number {
-    return 0
   }
 }
