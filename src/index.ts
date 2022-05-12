@@ -1,6 +1,6 @@
 import { Bot } from 'mineflayer'
 import { Goals } from './Goals'
-import collectBlock from 'mineflayer-collectblock'
+import * as collectBlock from 'mineflayer-collectblock'
 
 export function plugin (bot: Bot): void {
   bot.loadPlugin(collectBlock.plugin)
